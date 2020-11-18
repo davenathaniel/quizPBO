@@ -18,7 +18,7 @@ import java.awt.event.ActionListener;
  * @author LENOVO G4-45
  */
 public class InsertJurusan implements ActionListener {
-    JFrame layout = new JFrame("View Insert Jurusan Baru");
+    JFrame layout = new JFrame("Insert Data Jurusan Baru");
     JPanel dataPanel;
     JLabel title, labelKode, labelNama;
     JTextArea kode, nama;
